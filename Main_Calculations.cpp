@@ -57,7 +57,7 @@ int main()
 	}
 	else
 	{
-		cout << "\nNot a valid choice, please type in 1, 2, or 3 based on what is unknown."; // This acts like input validation, because if anything else is typed, then the user will get this statement.
+		cout << "\Not a valid choice, please type in 1, 2, or 3 based on what is unknown."; // This acts like input validation, because if anything else is typed, then the user will get this statement.
 	}
 
 	return 0;
